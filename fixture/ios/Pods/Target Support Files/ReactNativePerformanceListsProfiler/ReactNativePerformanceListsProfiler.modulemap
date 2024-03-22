@@ -1,0 +1,6 @@
+module ReactNativePerformanceListsProfiler {
+  umbrella header "ReactNativePerformanceListsProfiler-umbrella.h"
+
+  export *
+  module * { export * }
+}
